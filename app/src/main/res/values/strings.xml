@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OtusKt</string>
+    <string name="cityName">Karaganda</string>
+    <string name="temp">%.1f℃</string>
+    <string name="icon_url" translatable="false"> https://openweathermap.org/img/wn/%s@2x.png</string>
+    <string name="error_text">Something went wrong!</string>
+</resources>
